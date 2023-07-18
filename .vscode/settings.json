@@ -1,7 +1,0 @@
-{
-  "java.project.referencedLibraries": [
-    "lib/**/*.jar",
-    "algs4.jar",
-    "c:\\Program Files\\Java\\jre-1.8\\lib\\ext\\algs4.jar"
-  ]
-}

@@ -1,1 +1,0 @@
-java -classpath ".;(Path to path to File)\algs4.jar" YourProgramm.java
